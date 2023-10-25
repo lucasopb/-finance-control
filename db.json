@@ -1,0 +1,39 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "name": "Freela",
+      "amount": 300
+    },
+    {
+      "name": "Salário",
+      "amount": 3200,
+      "id": 3
+    },
+    {
+      "name": "Conta de água",
+      "amount": -60,
+      "id": 4
+    },
+    {
+      "name": "Conta de luz",
+      "amount": -150,
+      "id": 5
+    },
+    {
+      "name": "lucas oliveira de paiva bezerra",
+      "amount": 56,
+      "id": 6
+    },
+    {
+      "name": "renan",
+      "amount": 34,
+      "id": 7
+    },
+    {
+      "name": "ertw",
+      "amount": 665,
+      "id": 8
+    }
+  ]
+}
